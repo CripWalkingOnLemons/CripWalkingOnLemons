@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CripWalkingOnLemons
-- 👀 I’m interested in IOT
-- 🌱 I’m currently learning IOT in College
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning software engineer in College
 
 <!---
 CripWalkingOnLemons/CripWalkingOnLemons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
